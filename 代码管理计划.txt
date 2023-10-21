@@ -1,0 +1,12 @@
+Github respository
+
+PLAN: 3 folders
+
+1. Coding files
+	- Jupyter: network training
+	- MATLAB: data simulations 
+	- MATLAB: get [X, Y, T]
+	- MATLAB: get 5x5 orbits; get color plot
+2. Data
+	- 4-d array 
+3. Plots
