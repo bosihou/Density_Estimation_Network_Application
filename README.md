@@ -21,4 +21,4 @@ Mentor - Jonathan Rubin, Department of Mathematics, University of Pittsburgh
 
 ## License
 
-You can freely use and modify the code, without warranty, so long as you provide attribution to the authors. See LICENSE.md for the full license text.
+All source code is made available under a BSD 3-clause license. You can freely use and modify the code, without warranty, so long as you provide attribution to the authors. See LICENSE.md for the full license text.
