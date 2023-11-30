@@ -8,7 +8,7 @@ n = 500000;
 
 % Initial setting
 % =============================================
-step = 0.1; % 可调，一般为0.1或0.02。作图用step = 0.1
+step = 0.1; % grid size
 
 if step == 0.1
     length = 5;
@@ -22,7 +22,7 @@ tensorSize = [length, length, n, 2];
 
 
 
-% 生成起始数据为0的张量
+
 big_data = zeros(tensorSize);
 
 
