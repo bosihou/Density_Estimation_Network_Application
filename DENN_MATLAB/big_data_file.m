@@ -2,7 +2,7 @@ clear big_data;
 clear length; % length is the size of our data file
 
 n = 500000;
-% 定义张量的大小
+% number of iterations for ODE simulations
 
 
 
