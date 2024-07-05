@@ -1,3 +1,7 @@
+% DESCRIPTION: % This script replicates Figure 1 from the paper, which 
+%   illustrates the results of our analysis. 
+% AUTHOR: Bosi Hou
+
 m_index = 3;
 h_index = 3;
 

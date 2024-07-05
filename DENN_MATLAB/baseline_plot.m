@@ -1,3 +1,7 @@
+% DESCRIPTION: This file provides a script for simulating predator-prey 
+%   oscillations using the Rosenzweig-MacArthur equations.
+% AUTHOR: Bosi Hou
+
 n = 500000; % number of iterations
 
 % Initializing vectors
