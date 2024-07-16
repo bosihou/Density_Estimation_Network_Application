@@ -289,6 +289,6 @@ def ODE_simulator_embedded(parameter_set):
 # data_final_test = get_xyt(xy_simulation)
 # print(data_final_test[0:2, :])
 
-test_parameter_sample = torch.tensor([0.2, 0.2])
-test_sim_data = ODE_simulator_embedded(test_parameter_sample)
-print(test_sim_data)
+# test_parameter_sample = torch.tensor([0.2, 0.2])
+# test_sim_data = ODE_simulator_embedded(test_parameter_sample)
+# print(test_sim_data)
