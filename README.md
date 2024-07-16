@@ -15,7 +15,15 @@ MATLAB is used for data simulation. As the dynamic system of the study is comple
 
 ## History
 
-Version 1.0 (2023-11-29) - Revised `DENN_utils.py`
+### Version 1.0.0 (2023-11-29)
+- **Fixed:** Addressed a bug in `DENN_utils.py` affecting function outputs.
+
+### Version 2.0.0 (2024-07-16)
+- **Streamlined:** Refined the workflow in `DENN_Training.ipynb` to improve ease of replication.
+
+### Version 2.0.1 (2024-07-05)
+- **Revised:** Updated all MATLAB script in the 'DENN_MATLAB' folder with extensive comments to enhance readability.
+
 
 ## Credits
 
